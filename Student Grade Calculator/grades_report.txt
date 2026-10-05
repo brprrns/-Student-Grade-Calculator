@@ -1,0 +1,22 @@
+============================================================
+STUDENT GRADE REPORT
+============================================================
+
+Name           Average     Grade     Result    
+------------------------------------------------------------
+Rahul          86.60       B         Pass      
+Priya          90.80       A         Pass      
+Arjun          70.00       C         Pass      
+Sneha          82.60       B         Pass      
+Vikram         52.00       E         Pass      
+Ananya         95.00       A         Pass      
+Kiran          60.00       D         Pass      
+Meera          76.00       C         Pass      
+
+============================================================
+CLASS SUMMARY
+============================================================
+Total Students : 8
+Passed         : 8
+Failed         : 0
+Class Average  : 76.62
